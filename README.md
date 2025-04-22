@@ -7,7 +7,7 @@
 - 🔭 Founder of [wikibase.cloud](https://wikibase.cloud), now run by Wikimedia Germany
 - 🌱 I want to make peoples lives easier, latest work on a CLI tool for MediaWiki ([docs](https://www.mediawiki.org/wiki/Cli), [code](https://gitlab.wikimedia.org/releng/cli))
 - 📓 I try to [blog](https://addshore.com) whenever possible
-- 📫 You can reach me: Mastodon: [@addshore](https://mas.to/@Addshore), X: [@addshore](https://x.com/addshore), Email via [addshore.com](https://addshore.com/contact)
+- 📫 You can reach me: Mastodon: [@addshore](https://mas.to/@Addshore), X: [@addshore](https://x.com/addshore), Bluesky: [@addshore](https://bsky.app/profile/addshore.bsky.social) Email via [addshore.com](https://addshore.com/contact)
 
 <!--
 **addshore/addshore** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
